@@ -9,5 +9,5 @@ I want to learn something in programming everyday. I like to develop in this dir
 * MYSQL, PostgreSQL
 * PHP
 * Linux(basic skills)
-* Photoshop, CorelDraw, Figma
-## Code Example:
+* Photoshop
+## Code Example
