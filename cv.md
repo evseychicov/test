@@ -18,4 +18,5 @@ I want to learn something in programming everyday. I like to develop in this dir
 2. [github_diplom_project](https://github.com/evseychicov/DIPLOM)
 
 ## Experience:
+* 01.05.18 - 31.08.18 : Weblancer.net (front-end-developer)
 * 01.10.18 - 30.04.19 : OOO "Pragmatika" (designer)
