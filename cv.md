@@ -10,4 +10,10 @@ I want to learn something in programming everyday. I like to develop in this dir
 * PHP
 * Linux(basic skills)
 * Photoshop
-## Code Example
+## Skills:
+* HTML5, CSS3, Bootstrap
+* JavaScript, jQuery, ReactJS(basic skills)
+* MYSQL, PostgreSQL
+* PHP
+* Linux(basic skills)
+* Photoshop
