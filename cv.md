@@ -14,7 +14,7 @@ I want to learn something in programming everyday. I like to develop in this dir
 * Photoshop
 
 ## Code Example:
-1 [github_freelance](https://github.com/evseychicov/web-sites-)
-2 [github_diplom_project](https://github.com/evseychicov/DIPLOM)
+1. [github_freelance](https://github.com/evseychicov/web-sites-)
+2. [github_diplom_project](https://github.com/evseychicov/DIPLOM)
 
 ## Experience:
