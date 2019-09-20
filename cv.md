@@ -14,7 +14,7 @@ I want to learn something in programming everyday. I like to develop in this dir
 1. [github_freelance](https://github.com/evseychicov/web-sites-)
 2. [github_diplom_project](https://github.com/evseychicov/DIPLOM)
 ## Experience:
-1. 01.05.18 - 31.08.18 : Weblancer.net (front-end-developer)
-2. 01.10.18 - 30.04.19 : OOO"Pragmatika" (designer)
-3. 01.05.19 - 31.07.19 : Œ¿Œ"ITWIN" (front-end-developer)
+* 01.05.18 - 31.08.18 : Weblancer.net (front-end-developer)
+* 01.10.18 - 30.04.19 : OOO"Pragmatika" (designer)
+* 01.05.19 - 31.07.19 : Œ¿Œ"ITWIN" (front-end-developer)
 ## Education:
