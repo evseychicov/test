@@ -9,7 +9,7 @@ I want to learn something in programming everyday. I like to develop in this dir
 * MYSQL, PostgreSQL
 * PHP
 * Linux(basic skills)
-* Photoshop;
+* Photoshop
 
 ## Skills:
 * HTML5, CSS3, Bootstrap
