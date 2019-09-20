@@ -19,5 +19,5 @@ I want to learn something in programming everyday. I like to develop in this dir
 
 ## Experience:
 * 01.05.18 - 31.08.18 : Weblancer.net (front-end-developer)
-* 01.10.18 - 30.04.19 : OOO"Pragmatika" (designer)
-* 01.05.19 - 31.07.19 : Œ¿Œ"ITWIN" (front-end-developer)
+* 01.10.18 - 30.04.19 : OOO Pragmatika (designer)
+* 01.05.19 - 31.07.19 : Œ¿Œ ITWIN (front-end-developer)
